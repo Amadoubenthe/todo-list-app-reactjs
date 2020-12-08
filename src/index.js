@@ -8,8 +8,8 @@ import "./styles.css";
 const App =  () => {
 
   const [clients, setNewCilent] = useState([
-    { id: 1, nom: "Lior Chamla" },
-    { id: 2, nom: "Magali Pernin" },
+    { id: 1, nom: "Amadou Benthe" },
+    { id: 2, nom: "Nadia ZEBATO" },
     { id: 3, nom: "Joseph Durand" }
   ])
 
